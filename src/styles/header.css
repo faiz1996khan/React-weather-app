@@ -1,0 +1,17 @@
+.navbar{
+    width: 100%;
+    background: orange/*url('https://images.pexels.com/photos/416920/pexels-photo-416920.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260')*/;
+    height:30%;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center
+}
+
+.main-heading{
+    position: absolute;
+    color: #ffffff;
+    font-size: 50px;
+    top:30%;
+    
+}
