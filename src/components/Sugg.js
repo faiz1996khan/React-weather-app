@@ -29,6 +29,9 @@ class Sugg extends Component{
                 val:loc
             })
         })
+        .catch(err =>{
+            console.log(err)
+        })
     }
     render(){
         console.log(this.props.data.length)
